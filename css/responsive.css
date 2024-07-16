@@ -1,0 +1,40 @@
+@media (max-width: 575.98px){
+    .logo {
+        font-size: 36px;
+        margin-top: 43px;
+    }
+    .player_name {
+        font-size: 30px;
+    }
+    .main input {
+        padding: 10px 5px;
+        border-radius: 50px;
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .main button {
+        padding: 0px 7px;
+        font-size: 21px;
+        margin: 0 auto;
+        display: flex;
+    }
+    .error {
+        font-size: 19px;
+    }
+    .chance {
+        font-size: 19px;
+    }
+    .developername {
+        right: 5px;
+        bottom: 4px;
+        font-size: 8px;
+    }
+    .mukim {
+        font-size: 17px;
+    }
+    .main input::-webkit-inner-spin-button{
+        -webkit-appearance: none;
+    }
+}
